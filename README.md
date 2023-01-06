@@ -1,6 +1,6 @@
 # Tic-tac-toe Project
 
-
+![React-App](https://user-images.githubusercontent.com/106314415/211004494-bbdc3884-cae0-4035-b995-37c6d33a393e.png)
 
 # Getting Started with Create React App
 
