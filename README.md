@@ -1,5 +1,6 @@
-#Tic-tac-toe Project
-<b>
+# Tic-tac-toe Project
+
+
 
 # Getting Started with Create React App
 
